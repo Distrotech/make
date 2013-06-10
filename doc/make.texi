@@ -4,7 +4,7 @@
 
 @include version.texi
 @set EDITION 0.71
-@set RCSID $Id$
+@set RCSID $Id: make.texi,v 1.66 2010/07/19 07:10:54 psmith Exp $
 
 @settitle GNU @code{make}
 @setchapternewpage odd
